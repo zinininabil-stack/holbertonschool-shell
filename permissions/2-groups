@@ -1,2 +1,2 @@
 #!/bin/bash
-id --groups codespace
+id -G
