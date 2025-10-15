@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "Something" | rev Something
+rev 
