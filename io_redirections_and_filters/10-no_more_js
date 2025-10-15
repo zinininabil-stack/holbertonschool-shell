@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name .js | rm /workspaces/holbertonschool-shell/io_redirections_and_filters -r
