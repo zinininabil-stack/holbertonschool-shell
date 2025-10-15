@@ -1,2 +1,2 @@
 #!/bin/bash
-fgrep bin /etc/passwd | du
+fgrep bin /etc/passwd | wc -l
